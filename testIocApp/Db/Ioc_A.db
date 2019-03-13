@@ -1,2 +1,3 @@
 record(ao, "$(P)$(R)ao1") {}
+record(ao, "$(P)$(R)ao2") {}
 
