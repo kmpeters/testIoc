@@ -11,6 +11,7 @@ include $(TOP)/configure/CONFIG
 # Create and install (or just install) into <top>/db
 # databases, templates, substitutions like this
 DB += Ioc_A.db
+DB += Ioc_B.db
 
 #----------------------------------------------------
 # If <anyname>.db template is not named <anyname>*.template add
